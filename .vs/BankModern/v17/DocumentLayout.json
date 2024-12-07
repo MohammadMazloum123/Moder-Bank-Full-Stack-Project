@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BankModern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\application\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\application\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\domain\\entities\\transactionshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\domain\\entities\\transactionshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\application\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\application\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\application\\services\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\application\\services\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\application\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\application\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\application\\dtos\\transactionshistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\application\\dtos\\transactionshistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\application\\dtos\\applicationuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\application\\dtos\\applicationuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\infrastructure\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\infrastructure\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\infrastructure\\repositories\\savinggoalsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\infrastructure\\repositories\\savinggoalsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\infrastructure\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\infrastructure\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\infrastructure\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\infrastructure\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\infrastructure\\repositories\\isavinggoalsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\infrastructure\\repositories\\isavinggoalsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\infrastructure\\repositories\\icheckingaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\infrastructure\\repositories\\icheckingaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\infrastructure\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\infrastructure\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\infrastructure\\repositories\\checkingaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\infrastructure\\repositories\\checkingaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\application\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\application\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\application\\services\\goalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\application\\services\\goalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\application\\interfaces\\igoalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\application\\interfaces\\igoalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\application\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\application\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\application\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\application\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\application\\dtos\\investmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\application\\dtos\\investmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\application\\dtos\\generalresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\application\\dtos\\generalresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|c:\\users\\user\\source\\repos\\bankmodern\\bankmodern\\src\\application\\dtos\\checkingaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77651596-4C52-40DA-AB5C-AD834EFCEC16}|BankModern\\BankModern.csproj|solutionrelative:bankmodern\\src\\application\\dtos\\checkingaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Application\\DTOs\\ResetPasswordDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\ResetPasswordDto.cs",
+              "RelativeToolTip": "BankModern\\src\\Application\\DTOs\\ResetPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:33:34.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Infrastructure\\Repositories\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\ITransactionRepository.cs",
+              "RelativeToolTip": "BankModern\\src\\Infrastructure\\Repositories\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:44:47.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "BankModern\\src\\Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAQwLAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:45:38.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\ApplicationUserDto.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Application\\DTOs\\ApplicationUserDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\ApplicationUserDto.cs",
+              "RelativeToolTip": "BankModern\\src\\Application\\DTOs\\ApplicationUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:57:29.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\Services\\HistoryService.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Application\\Services\\HistoryService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\Services\\HistoryService.cs",
+              "RelativeToolTip": "BankModern\\src\\Application\\Services\\HistoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:59:35.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Application\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\Services\\TransactionService.cs",
+              "RelativeToolTip": "BankModern\\src\\Application\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:14:10.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionsHistory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Domain\\Entities\\TransactionsHistory.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Domain\\Entities\\TransactionsHistory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Domain\\Entities\\TransactionsHistory.cs",
+              "RelativeToolTip": "BankModern\\src\\Domain\\Entities\\TransactionsHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T00:14:49.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Domain\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Domain\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Domain\\Entities\\Transaction.cs",
+              "RelativeToolTip": "BankModern\\src\\Domain\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:09:30.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Application\\DTOs\\TransactionDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\TransactionDto.cs",
+              "RelativeToolTip": "BankModern\\src\\Application\\DTOs\\TransactionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:54:06.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SavingGoalsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\SavingGoalsRepository.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Infrastructure\\Repositories\\SavingGoalsRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\SavingGoalsRepository.cs",
+              "RelativeToolTip": "BankModern\\src\\Infrastructure\\Repositories\\SavingGoalsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:12:49.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "BankModern\\src\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:52:30.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Infrastructure\\Repositories\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\TransactionRepository.cs",
+              "RelativeToolTip": "BankModern\\src\\Infrastructure\\Repositories\\TransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:08:13.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionsHistoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\TransactionsHistoryDto.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Application\\DTOs\\TransactionsHistoryDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\TransactionsHistoryDto.cs",
+              "RelativeToolTip": "BankModern\\src\\Application\\DTOs\\TransactionsHistoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:56:22.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Infrastructure\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "BankModern\\src\\Infrastructure\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:45:45.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ISavingGoalsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\ISavingGoalsRepository.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Infrastructure\\Repositories\\ISavingGoalsRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\ISavingGoalsRepository.cs",
+              "RelativeToolTip": "BankModern\\src\\Infrastructure\\Repositories\\ISavingGoalsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:43:21.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICheckingAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\ICheckingAccountRepository.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Infrastructure\\Repositories\\ICheckingAccountRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\ICheckingAccountRepository.cs",
+              "RelativeToolTip": "BankModern\\src\\Infrastructure\\Repositories\\ICheckingAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:42:44.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Infrastructure\\Repositories\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\IAuthRepository.cs",
+              "RelativeToolTip": "BankModern\\src\\Infrastructure\\Repositories\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:40:12.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CheckingAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\CheckingAccountRepository.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Infrastructure\\Repositories\\CheckingAccountRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\CheckingAccountRepository.cs",
+              "RelativeToolTip": "BankModern\\src\\Infrastructure\\Repositories\\CheckingAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:19:33.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Infrastructure\\Repositories\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Infrastructure\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "BankModern\\src\\Infrastructure\\Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:17:16.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\Program.cs",
+              "RelativeDocumentMoniker": "BankModern\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\Program.cs",
+              "RelativeToolTip": "BankModern\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T00:33:17.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Domain\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Domain\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Domain\\Entities\\UserRole.cs",
+              "RelativeToolTip": "BankModern\\src\\Domain\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T00:12:01.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GoalService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\Services\\GoalService.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Application\\Services\\GoalService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\Services\\GoalService.cs",
+              "RelativeToolTip": "BankModern\\src\\Application\\Services\\GoalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:53:39.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IGoalService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\Interfaces\\IGoalService.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Application\\Interfaces\\IGoalService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\Interfaces\\IGoalService.cs",
+              "RelativeToolTip": "BankModern\\src\\Application\\Interfaces\\IGoalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:05:44.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "BankModern\\src\\Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:45:24.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\Interfaces\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Application\\Interfaces\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\Interfaces\\ITransactionService.cs",
+              "RelativeToolTip": "BankModern\\src\\Application\\Interfaces\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:11:45.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Application\\DTOs\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\AuthResponseDto.cs",
+              "RelativeToolTip": "BankModern\\src\\Application\\DTOs\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:58:11.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Application\\DTOs\\ChangePasswordDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\ChangePasswordDto.cs",
+              "RelativeToolTip": "BankModern\\src\\Application\\DTOs\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:03:32.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\appsettings.json",
+              "RelativeDocumentMoniker": "BankModern\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\appsettings.json",
+              "RelativeToolTip": "BankModern\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T13:42:26.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LogInDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\LogInDto.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Application\\DTOs\\LogInDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\LogInDto.cs",
+              "RelativeToolTip": "BankModern\\src\\Application\\DTOs\\LogInDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:00:40.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InvestmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\InvestmentDto.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Application\\DTOs\\InvestmentDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\InvestmentDto.cs",
+              "RelativeToolTip": "BankModern\\src\\Application\\DTOs\\InvestmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:00:07.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GeneralResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\GeneralResponseDto.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Application\\DTOs\\GeneralResponseDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\GeneralResponseDto.cs",
+              "RelativeToolTip": "BankModern\\src\\Application\\DTOs\\GeneralResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:54:25.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CheckingAccountDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\CheckingAccountDto.cs",
+              "RelativeDocumentMoniker": "BankModern\\src\\Application\\DTOs\\CheckingAccountDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BankModern\\BankModern\\src\\Application\\DTOs\\CheckingAccountDto.cs",
+              "RelativeToolTip": "BankModern\\src\\Application\\DTOs\\CheckingAccountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:50:53.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
